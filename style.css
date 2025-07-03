@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(184, 184, 117);
+}
+h1 {
+    font-size: 78px;
+    text-align: center;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: rgb(4, 70, 4);
+}
+h2 {
+    font-size: 36px;
+    text-align: center;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: rgb(4, 70, 4);
+}
+img {
+    width: 1000px;
+    height: auto;
+    margin-left: 150px;
+}
+p {
+    font-size: 48px;
+    font-family:"Monotype Corsiva Regular";
+    color: rgb(2, 31, 2);
+}
+
+.list {
+    margin: 10px;
+    font-size: 28px;
+    text-decoration: none;
+    color: rgb(14, 102, 14);
+}
